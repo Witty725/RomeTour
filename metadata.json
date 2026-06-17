@@ -1,0 +1,6 @@
+{
+  "name": "Rome Couples Travel Itinerary",
+  "description": "Interactive 3-day travel dashboard and logistics tracker for a private couple's Roman getaway in July 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
